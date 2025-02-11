@@ -20,7 +20,7 @@
         SB DEZ
         JN NEG
         LD X
-        SUB DEZ
+        SB DEZ
         AD VAI
         JP COM
 NEG     LD X
