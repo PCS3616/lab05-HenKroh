@@ -17,7 +17,7 @@
         MM Y
         LD X
         SB Y
-        SUB DEZ
+        SB DEZ
         JN NEG
         LD X
         SUB DEZ
